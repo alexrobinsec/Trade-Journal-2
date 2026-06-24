@@ -1,0 +1,9 @@
+
+{
+  "name":"Trade Journal Pro",
+  "short_name":"Journal",
+  "start_url":"/",
+  "display":"standalone",
+  "background_color":"#0d0f12",
+  "theme_color":"#1fd4a0"
+}
