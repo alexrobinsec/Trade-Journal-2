@@ -1,0 +1,1 @@
+// Future analytics module: equity curve, streaks, profit factor
